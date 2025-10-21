@@ -8,7 +8,7 @@ export default function Home() {
       <div 
         className="relative h-screen bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: 'url(https://cdn.poehali.dev/projects/b4af39c5-2fbd-4582-979e-47c9ccc27e27/files/34c05140-bc1c-4376-a7c6-24e8a72740ba.jpg)'
+          backgroundImage: 'url(https://cdn.poehali.dev/projects/b4af39c5-2fbd-4582-979e-47c9ccc27e27/files/8f286863-2c85-403c-ab4b-b27dfdac6f3c.jpg)'
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/20 to-white/90"></div>
@@ -16,9 +16,9 @@ export default function Home() {
         <div className="relative z-10 flex flex-col items-center justify-center h-full px-4 text-center">
           <div className="animate-fade-in">
             <img 
-              src="https://cdn.poehali.dev/projects/b4af39c5-2fbd-4582-979e-47c9ccc27e27/files/2bb16130-c0ff-473c-a4f8-82ac4fb5c24c.jpg"
+              src="https://cdn.poehali.dev/projects/b4af39c5-2fbd-4582-979e-47c9ccc27e27/files/c80f3ed2-532b-4f53-aeed-15448d5a5dd3.jpg"
               alt="Эмблема здорового образа жизни"
-              className="w-32 h-32 mx-auto mb-6 rounded-full shadow-2xl"
+              className="w-40 h-40 mx-auto mb-6 rounded-full shadow-2xl hover-scale"
             />
             
             <h1 className="text-6xl md:text-8xl font-bold mb-4 text-white drop-shadow-lg" style={{ fontFamily: 'Poppins, sans-serif' }}>
